@@ -1,0 +1,78 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-bottom: 3rem;
+  color: #222831;
+}
+footer {
+  font-size: 14px;
+}
+.footer-row{
+  margin-bottom: 5px;
+  flex-wrap: nowrap;
+}
+.footer-text{
+  max-width: 630px;
+  flex: 0 1 630px;
+  text-align: justify;
+  margin-right: 20px;
+}
+.footer-link{
+  flex: 1 1 auto;
+  display: block;
+  text-align: right;
+}
+
+.hero {
+  background-color: #eeeeee;
+}
+
+
+.top-image {
+  height: 10rem;
+  max-width: 20rem;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 3rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+.featurette-subheading {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  display: block;
+  font-weight: 600;
+  margin: 1.2rem 0;
+}
+
+
+
+
+
